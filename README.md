@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @rexmine-code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Salut, moi c'est Rexmine-code !
 
-<!---
-rexmine-code/rexmine-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Développeur passionné par le Python, et tout ce qui touche au dev informatique.  
+💻 Je crée des outils, des jeux, des scripts d'automatisation... et parfois même des bots Discord.
+
+---
+
+## 🚀 À propos de moi
+
+
+- 🐍 Grand fan de Python (mon langage principal)
+- 🎮 J'adore développer des jeux ou outils liés au gameplay
+- 🧪 Je fais souvent des tests de performance et d’optimisation
+- 📡 J’aime bricoler avec l’ESP32, les firmwares custom et les vieux appareils
+
+---
+
+## 🌟 Projets à découvrir
+
+- 🔧 **bobby map** : visualisateur de niveau personnalisé basé sur Pygame  
+- 🤖 **Bot Discord** : conçu avec `discord.py`, avec des fonctionnalités uniques  
+
+
+---
+
+## 📫 Me contacter
+
+- 🎥 Twitch : [twitch.tv/rexmine2](https://www.twitch.tv/rexmine2)
+- 📧 Mail : *(à compléter si tu veux)*
+- 💬 En DM sur GitHub ou via les issues de mes projets
+
+---
+
+## 🛠️ Compétences
+
+```text
+Langages     : Python, HTML/CSS, JavaScript (Node), C (basiques)
+Outils/Tech  : Git, Pygame, ESP32, Discord.py, Kali Linux, Atlas OS
+Autres       : Optimisation système, modding
