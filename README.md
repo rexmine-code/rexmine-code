@@ -26,8 +26,7 @@
 ## 📫 Me contacter
 
 - 🎥 Twitch : [twitch.tv/rexmine2](https://www.twitch.tv/rexmine2)
-- 📧 Mail : *(à compléter si tu veux)*
-- 💬 En DM sur GitHub ou via les issues de mes projets
+
 
 ---
 
