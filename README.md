@@ -35,5 +35,5 @@
 
 ```text
 Langages     : Python, HTML/CSS, JavaScript (Node), C (basiques)
-Outils/Tech  : Git, Pygame, ESP32, Discord.py, Kali Linux, Atlas OS
+Outils/Tech  : Git, 
 Autres       : Optimisation système, modding
